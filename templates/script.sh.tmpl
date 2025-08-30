@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+set -Eeuo pipefail
+IFS=$'\n\t'
+
+SCRIPT_NAME=${0##*/}
+LOCK_FD=200
+LOCK_FILE="/var/lock/${SCRIPT_NAME}.lock"
+
+exec {LOCK_FD}>"${LOCK_FILE}" || { echo "Cannot open lock"; exit 1; }
+flock -n ${LOCK_FD} || { echo "Already running"; exit 0; }
+trap 'rc=$?; echo "${SCRIPT_NAME} exit ${rc}"; exit ${rc}' EXIT
+
+main() {
+  echo "Hello from ${SCRIPT_NAME}"
+}
+
+main "$@"
