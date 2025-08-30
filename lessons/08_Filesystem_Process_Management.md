@@ -1,9 +1,11 @@
-# Working with files (cp, mv, rm, stat)
-# Permissions (chmod, chown, umask)
-# find with -exec and -print0 | xargs -0
-# Archiving & compression (tar, gzip, zip)
-# Background jobs (&), jobs, fg, bg, kill
-# Signals & traps (trap 'cleanup' EXIT)
+## 📌 Topics Covered
+- Working with files (cp, mv, rm, stat)
+- Permissions (chmod, chown, umask)
+- find with -exec and -print0 | xargs -0
+- Archiving & compression (tar, gzip, zip)
+- Background jobs (&), jobs, fg, bg, kill
+- Signals & traps (trap 'cleanup' EXIT)
+
 
 ## Working with Files
 

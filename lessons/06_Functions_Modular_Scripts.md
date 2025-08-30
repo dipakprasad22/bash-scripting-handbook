@@ -1,7 +1,9 @@
-# Defining and calling functions
-# Returning values (return vs echo)
-# Local vs global variables
-# Organizing reusable functions into libraries (source file.sh)
+## 📌 Topics Covered
+- Defining and calling functions
+- Returning values (return vs echo)
+- Local vs global variables
+- Organizing reusable functions into libraries (source file.sh)
+
 
 ## Defining and Calling Functions
 

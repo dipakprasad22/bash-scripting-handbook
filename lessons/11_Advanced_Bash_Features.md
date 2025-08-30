@@ -1,8 +1,10 @@
-# Brace expansion ({a,b}, {1..10})
-# Parameter expansion (${var:-default}, ${#var}, ${var%%.*})
-# String manipulation & substring operations
-# Arithmetic & floating-point (with bc)
-# Associative arrays (declare -A)
+## 📌 Topics Covered
+- Brace expansion ({a,b}, {1..10})
+- Parameter expansion (${var:-default}, ${var}, ${var%%.*})
+- String manipulation & substring operations
+- Arithmetic & floating-point (with bc)
+- Associative arrays (declare -A)
+
 
 ## Brace Expansion
 

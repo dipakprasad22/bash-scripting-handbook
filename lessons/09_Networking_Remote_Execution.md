@@ -1,7 +1,9 @@
-# curl / wget basics
-# nc / ss for port checks
-# ssh and scp automation
-# Remote command execution (ssh user@host "cmd")
+## 📌 Topics Covered
+- curl / wget basics
+- nc / ss for port checks
+- ssh and scp automation
+- Remote command execution (ssh user@host "cmd")
+
 
 ## curl / wget Basics
 

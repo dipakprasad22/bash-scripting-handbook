@@ -1,7 +1,9 @@
-# Reading input (read, read -p, read -s)
-# Writing output (echo, printf)
-# Redirection (>, >>, 2>, &>)
-# Here-documents (<<EOF) and here-strings (<<<)
+## 📌 Topics Covered
+- Reading input (read, read -p, read -s)
+- Writing output (echo, printf)
+- Redirection (>, >>, 2>, &>)
+- Here-documents (<<EOF) and here-strings (<<<)
+
 
 ## Reading Input
 

@@ -1,7 +1,9 @@
-# for loops (for i in list)
-# C-style loops (for ((i=0;i<10;i++)))
-# while and until loops
-# break, continue
+## 📌 Topics Covered
+- for loops (for i in list)
+- C-style loops (for ((i=0;i<10;i++)))
+- while and until loops
+- break, continue
+
 
 ## for loops (`for i in list`)
 

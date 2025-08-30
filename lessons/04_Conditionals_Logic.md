@@ -1,8 +1,10 @@
-# Exit codes & truthiness (0 = success)
-# if, elif, else
-# [ ] vs [[ ]] vs (( ))
-# case statements
-# String, numeric, and file tests (-f, -d, -z, etc.)
+## 📌 Topics Covered
+- Exit codes & truthiness (0 = success)
+- if, elif, else
+- [ ] vs [[ ]] vs (( ))
+- case statements
+- String, numeric, and file tests (-f, -d, -z, etc.)
+
 
 ## Exit Codes & Truthiness (0 = Success)
 

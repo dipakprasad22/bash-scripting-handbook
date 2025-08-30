@@ -1,7 +1,9 @@
-# set -e, set -u, set -o pipefail
-# Defensive coding (: "${VAR:?error}")
-# Traps for cleanup (trap 'rm -f /tmp/file' EXIT)
-# Logging & debugging (set -x, PS4)
+## 📌 Topics Covered
+- set -e, set -u, set -o pipefail
+- Defensive coding (: "${VAR:?error}")
+- Traps for cleanup (trap 'rm -f /tmp/file' EXIT)
+- Logging & debugging (set -x, PS4)
+
 
 ## set -e, set -u, set -o pipefail
 

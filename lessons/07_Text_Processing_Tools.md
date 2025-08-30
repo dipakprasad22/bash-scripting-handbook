@@ -1,8 +1,10 @@
-# cat, head, tail, wc, cut, sort, uniq
-# grep, egrep, regex basics
-# awk (field extraction, simple reports)
-# sed (find/replace, text edits)
-# tr, xargs, paste, join
+## 📌 Topics Covered
+- cat, head, tail, wc, cut, sort, uniq
+- grep, egrep, regex basics
+- awk (field extraction, simple reports)
+- sed (find/replace, text edits)
+- tr, xargs, paste, join
+
 
 ## 1. cat, head, tail, wc, cut, sort, uniq
 

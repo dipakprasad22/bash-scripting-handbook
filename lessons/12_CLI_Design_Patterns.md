@@ -1,7 +1,9 @@
-# Argument parsing with getopts
-# Usage/help functions
-# Subcommands (like git add, git commit)
-# Exit codes & error messages
+## 📌 Topics Covered
+- Argument parsing with getopts
+- Usage/help functions
+- Subcommands (like git add, git commit)
+- Exit codes & error messages
+
 
 ## Argument Parsing with `getopts`
 
