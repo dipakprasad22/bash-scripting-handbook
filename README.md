@@ -34,9 +34,3 @@ See [`lessons/`](lessons/) for structured guides and [`scripts/`](scripts/) for 
 ## Who is this for?
 - New engineers learning Bash fundamentals
 - SysAdmins/DevOps needing robust, shareable automation
-
-## Contributing
-See [CONTRIBUTING.md](CONTRIBUTING.md). Please run `make precommit` before pushing.
-
-## License
-MIT — see [LICENSE](LICENSE).
