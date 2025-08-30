@@ -1,2 +1,0 @@
-# Networking
-- curl, nc, ssh.

@@ -1,9 +1,0 @@
-name: shfmt
-on: [push, pull_request]
-jobs:
-  shfmt:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: mfinelli/setup-shfmt@v3
-      - run: shfmt -d -i 2 -ci -sr $(git ls-files '*.sh')
