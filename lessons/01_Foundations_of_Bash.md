@@ -1,8 +1,11 @@
-# What is a shell, what is Bash vs POSIX sh
-# Interactive vs Non-interactive shell
-# Login vs Non-login shell
-# Environment variables (PATH, HOME, etc.)
-# How commands are executed (search path, builtins vs binaries)
+## 📌 Topics Covered
+- What is a shell?  
+- Difference between Bash and POSIX `sh`  
+- Interactive vs Non-interactive shell  
+- Login vs Non-login shell  
+- Environment variables (`PATH`, `HOME`, etc.)  
+- How commands are executed (search path, builtins vs binaries)  
+
 
 ## What is a Shell? What is Bash vs POSIX sh?
 

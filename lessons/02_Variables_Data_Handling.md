@@ -1,8 +1,10 @@
-**Declaring variables (local, global, readonly)**
-**Special variables ($?, $$, $@, $*, $#, $!)**
-**Quoting: single ', double ", backticks `, $()**
-**Command substitution & arithmetic expansion $(( ))**
-**Arrays & associative arrays (Bash-only)**
+## 📌 Topics Covered
+- Declaring variables (local, global, readonly) 
+- Special variables ($?, $$, $@, $*, $#, $!) 
+- Quoting: single ', double ", backticks `, $()
+- Command substitution & arithmetic expansion $(( ))
+- Arrays & associative arrays (Bash-only) 
+
 
 ## Declaring Variables in Bash
 
